@@ -24,8 +24,8 @@ public class MyActivity extends Activity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mainText.setText("Мир, привет!");
-            }
-        });
-    }
+                mainText.setText("Мир, привет-пока!");
+}
+});
+        }
 }
