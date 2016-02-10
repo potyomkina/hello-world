@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 public class MyActivity extends Activity {
     TextView mainText;
+
     Button button;
     /**
      * Called when the activity is first created.
